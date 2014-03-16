@@ -20,7 +20,7 @@ def prepare_meal(n):
     else:
         meal = spam + eggs
     
-    return n, meal
+    return meal
 
 
 def main():
