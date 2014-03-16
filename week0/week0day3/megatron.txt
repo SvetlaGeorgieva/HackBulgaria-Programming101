@@ -1,0 +1,10 @@
+This is some file
+And cat is printing it's contents
+
+Also, you can use Python at a lot of different places!
+
+This is some file
+And cat is printing it's contents
+
+Also, you can use Python at a lot of different places!
+

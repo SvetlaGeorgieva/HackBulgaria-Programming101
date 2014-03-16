@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"file_extension"
+			],
+			[
+				"ext",
+				"extension"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"string",
+				"string_utils"
+			],
+			[
+				"arr",
+				"arr_ab"
+			],
+			[
+				"ar",
+				"arr_ab"
+			],
+			[
+				"sum",
+				"sum_d1"
+			],
+			[
+				"s",
+				"sl_pos"
+			],
+			[
+				"nee",
+				"needle_length"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"word",
+				"word_str"
+			],
+			[
+				"wo",
+				"word_str"
+			],
+			[
+				"end",
+				"end_day"
+			],
+			[
+				"spam",
+				"spam_list"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"c",
+				"calculate_coins"
+			],
+			[
+				"prime",
+				"prime_count"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/svetla/code/HackBulgaria/week2day2/hero_tests.py",
+		"/home/svetla/code/HackBulgaria/week2day2/hero.py",
+		"/home/svetla/code/HackBulgaria/week2day1/spacify.py",
+		"/home/svetla/code/HackBulgaria/week2day1/spacify_tests.py",
+		"/home/svetla/code/HackBulgaria/week2day1/bank.py",
+		"/home/svetla/code/HackBulgaria/week2day1/bank_tests.py",
+		"/home/svetla/code/HackBulgaria/week2day1/calculator_tests.py",
+		"/home/svetla/code/HackBulgaria/week2day1/ext_tests.py",
+		"/home/svetla/code/HackBulgaria/week2day1/ext.py",
+		"/home/svetla/code/HackBulgaria/week2day1/string_utils_tests.py",
+		"/home/svetla/code/HackBulgaria/week2day1/calculator.py",
+		"/home/svetla/code/HackBulgaria/week2day1/string_utils.py",
+		"/home/svetla/code/HackBulgaria/week2day1/bank",
+		"/home/svetla/Projects/week0day3/generate_numbers.py",
+		"/home/svetla/code/HackBulgaria/week2day1/0_calculator.py",
+		"/home/svetla/code/HackBulgaria/week0day1/script.py",
+		"/home/svetla/Projects/week0day2/bonus3_oned_robot.py",
+		"/home/svetla/Projects/week0day2/bonus2_magic_string.py",
+		"/home/svetla/Projects/week0day2/bonus1_division_by_zero.py",
+		"/home/svetla/Projects/week0day2/34_sudoku_solved.py",
+		"/home/svetla/Projects/week0day2/33_magic_square.py",
+		"/home/svetla/Projects/week0day2/32_goldbach.py",
+		"/home/svetla/Projects/week0day2/27_reduce_file_path.py",
+		"/home/svetla/Projects/week0day1/fib.py",
+		"/home/svetla/Projects/adding_files.txt",
+		"/home/svetla/Projects/week0day2/22_calculate_coins.py",
+		"/home/svetla/code/HackBulgaria/week1day1/0_attendance.py",
+		"/home/svetla/Projects/week0day2/30_sort_fractions.py",
+		"/home/svetla/Projects/week0day2/31_nth_fib_lists.py",
+		"/home/svetla/Projects/week0day2/31.5_member_of_nth_fib_lists.py",
+		"/home/svetla/Projects/week0day2/28_is_an_bn.py",
+		"/home/svetla/Projects/week0day2/29_simplify_fraction.py",
+		"/home/svetla/Projects/week0day1/20_what_is_my_sign.py",
+		"/home/svetla/Projects/week0day2/26_prepare_meal.py",
+		"/home/svetla/Projects/week0day1/27_reduce_filepath.py",
+		"/home/svetla/Projects/week0day3/pizza.py",
+		"/home/svetla/Projects/week0day3/sum_numbers.py",
+		"/home/svetla/Projects/week0day3/concat_files.py",
+		"/home/svetla/Projects/week0day3/wc.py",
+		"/home/svetla/Projects/week0day3/story.txt",
+		"/home/svetla/Projects/week0day3/megatron.txt",
+		"/home/svetla/Projects/week0day3/numbers2.txt",
+		"/home/svetla/Projects/week0day3/cat2.py",
+		"/home/svetla/Projects/week0day3/cat.py",
+		"/home/svetla/Projects/week0day3/file1.txt",
+		"/home/svetla/Projects/week0day3/file2.txt",
+		"/home/svetla/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/svetla/Projects/week0day1/21_prime_factorization.py",
+		"/home/svetla/Projects/week0day1/do_later_26_prepare_meal.py",
+		"/home/svetla/Projects/week0day1/22_calculate_coins.py",
+		"/home/svetla/Projects/week0day1/23_count_words.py",
+		"/home/svetla/Projects/week0day1/24_unique_words_count.py",
+		"/home/svetla/Projects/week0day1/25_groupby.py",
+		"/home/svetla/Projects/week0day1/4_is_prime.py",
+		"/home/svetla/Projects/week0day1/do_later_20_what_is_my_sign.py",
+		"/home/svetla/Projects/week0day1/19_is_decreasing.py",
+		"/home/svetla/Projects/week0day1/17_slope_style_score.py",
+		"/home/svetla/Projects/week0day1/18_is_increasing.py",
+		"/home/svetla/Projects/week0day1/16_biggest_difference.py",
+		"/home/svetla/Projects/week0day1/sum_of_min_and_max.py",
+		"/home/svetla/Svetla/week0day1/7_is_int_palindrom.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"position"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "hero.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,12 @@
+from entity import Entity
+
+class Hero(Entity):
+    """docstring for Hero"""
+    def __init__(self, name, health, nickname):
+        super().__init__(name, health)
+        self.nickname = nickname
+        
+    def known_as(self):
+        n = ""
+        n += self.name + " the " + self.nickname
+        return n
