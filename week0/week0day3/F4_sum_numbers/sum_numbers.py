@@ -10,7 +10,6 @@ def main():
     filename = sys.argv[1]
     file_content = get_content(filename)
     num_list = file_content.split(" ")
-    print(num_list)
 
     sum_of_numbers = 0
     for i in num_list:
