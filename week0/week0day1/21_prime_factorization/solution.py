@@ -19,7 +19,6 @@ def is_prime(n):
 
 def prime_factorization(n):
     prime_factors = []
-    print (n)
     prime_numbers = []
     prime_count = []
     for i in range(1, n + 1):

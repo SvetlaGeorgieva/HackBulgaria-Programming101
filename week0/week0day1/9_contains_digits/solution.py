@@ -7,7 +7,7 @@ def contains_digit(number, digit):
 
 def contains_digits(number, digits):
     if(len(digits) == 0):
-        return False
+        return True
     for digit in digits:
         if(contains_digit(number, digit) == False):
             return False
